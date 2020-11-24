@@ -21,7 +21,7 @@ Vamos explorar base de dados do sistema educacional, criar um modelo de Machine 
 
 ## Screenshots
 
-![grafico](Desafio Final/Graficos/grafico05.png)
-![grafico](Desafio Final/Graficos/grafico04.png)
+![grafico](./Desafio Final/Graficos/grafico05.png)
+![grafico](./Desafio Final/Graficos/grafico04.png)
 
 
